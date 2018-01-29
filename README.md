@@ -14,4 +14,3 @@ A command line tool for querying over JSON logs in CloudWatch.
 ```
 > aws-vault exec <aws-role> -- cjl -s 30m <log-group> '<filter>'
 ```
-
